@@ -12,8 +12,12 @@ A Playwright-based automation tool that extracts company intelligence from Zauba
 ## Tech Stack
 - Python
 - Playwright
-- CSV
-- Regular Expressions
+- Web Automation
+- Web Scraping
+- Data Extraction
+- CSV Processing
+- Regular Expressions (Regex)
+- Browser Session Managements
 
 ## Output Fields
 - Company Name
