@@ -1,0 +1,5 @@
+chrome_profile/
+chromedriver-win64/
+zauba_results.csv
+__pycache__/
+*.pyc
